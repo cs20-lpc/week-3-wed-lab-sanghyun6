@@ -1,3 +1,7 @@
+
+#include <iostream>
+using namespace std;
+
 template <typename T>
 LinkedList<T>::LinkedList()
     : head(nullptr) {}
